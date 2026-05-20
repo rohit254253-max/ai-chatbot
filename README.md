@@ -58,7 +58,7 @@ python app.py
 http://127.0.0.1:5000
 
 Screenshots
-<img width="1200" height="1600" alt="chtbot1" src="https://github.com/user-attachments/assets/553af483-e347-4052-9f70-bf3c26c870b3" /><img width="1080" height="1440" alt="chatbot" src="https://github.com/user-attachments/assets/c6a7557d-34da-452d-a057-73de03f66ba8" />
+<img width="1200" height="1600" alt="chtbot1" src="[https://github.com/user-attachments/assets/553af483-e347-4052-9f70-bf3c26c870b3](https://github.com/rohit254253-max/ai-chatbot/blob/main/static/screenshots/chatbot.jpeg)" /><img width="1080" height="1440" alt="chatbot" src="[https://github.com/user-attachments/assets/c6a7557d-34da-452d-a057-73de03f66ba8](https://github.com/rohit254253-max/ai-chatbot/blob/main/static/screenshots/chtbot1.jpeg)" />
 
 
 Learning Outcome
